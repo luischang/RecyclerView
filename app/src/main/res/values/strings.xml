@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Convocados</string>
+    <string name="nom_entrenador">Ricardo Gareca</string>
+    <string name="descripcion">Entrenador Peruano</string>
+</resources>
